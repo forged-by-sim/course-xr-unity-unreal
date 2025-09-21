@@ -1,0 +1,64 @@
+1. What are key considerations when shaping your XR strategy for a new project? Choose all that apply.
+
+==> Knowledge and roles required in the team
+
+==> Equipment needed for the project
+
+==> Target user groups of the project
+
+
+2. What things should you know when starting your new XR project? Choose all that apply.
+
+==> What trends and key issues in XR are likely to have an impact on the project
+
+==> What technologies and tools are available to facilitate the project's implementation
+
+==> The likeliness of XR technology to help solve the problem targeted by the project
+
+
+3. Which of the following is potentially the most effective when brainstorming new XR projects with stakeholders?
+==> Design jams
+
+
+4. What are effective ways of growing the knowledge of XR technology in your team? Choose all that apply.
+
+==> Forming a community of practice with regular events involving XR technology
+
+==> Equipping one member of the team who can then be an evangelist
+
+==> Starting a reading group dedicated to having conversations about XR
+
+
+5. Which of the following is not a good idea when purchasing new XR equipment for your team?
+==> Buying the same device in bulk
+
+
+6. When hiring for an XR developer position, which of the following would be the minimum required experience?
+==> Experience with web or mobile application development
+
+
+7. When hiring for an XR design position, which of the following would be the preferred experience?
+==> Experience with game or interaction design
+
+
+8. When assessing XR projects/initiatives, what are good indicators for success? Choose all that apply.
+
+==> Likeliness of the problem to benefit from the use of XR technology
+
+==> Experience the team has with XR technology
+
+
+9. Reflecting on the XR strategy panel, what was a major theme that emerged from the panelist discussions?
+==> That it is challenging to provide access to XR technology
+
+
+10. Considering everything covered in this course, which of the following are key take-aways? Choose all that apply.
+
+==> There are key trends in XR that could mitigate current technical limitations
+
+==> There is confusion about XR terminology
+
+==> It helps to separate XR concepts from technologies
+
+==> There are social and ethical concerns with XR technology that could hinder adoption
+
