@@ -1,0 +1,1 @@
+![Assignment 3](XR_MOOC_1_Assignment_3_Impact_Analysis.pdf) 

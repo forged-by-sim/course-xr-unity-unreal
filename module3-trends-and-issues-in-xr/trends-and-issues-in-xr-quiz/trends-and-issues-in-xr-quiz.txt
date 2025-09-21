@@ -1,0 +1,73 @@
+1. When thinking about trends in XR from a human computer interaction perspective, what are three main angles to think through the space? Choose one (1) answer. 
+==> People – Tasks – Technology
+
+
+2. Which of the following are major technological trends in XR? Choose all that apply.
+
+==> From connecting XR devices to computers, to dedicated standalone XR devices, to building XR technology into a variety of digital and analog devices
+
+==> From building special XR hardware sensors, to software-based XR using advanced algorithms, to cloud-based XR for live streaming and data processing
+
+
+3. Which of the following are major limitations of current XR applications? Choose all that apply.
+
+==> Most applications are designed for either VR or AR and do not adapt well to the user’s preferences and context.
+
+==> Most applications are designed for able-bodied users and do not cater to users with special needs.
+
+==> Most applications are designed for a specific context and do not adapt well to the user’s physical environment.
+
+
+4. Which of the following statements are correct about key issues in XR? Choose all that apply.
+
+==> There is still a fairly high barrier to entry for novice XR creators.
+
+==> There are only few design guidelines and more user experience research is needed.
+
+
+5. When thinking about social and ethical issues in XR, which of the following statements are correct? Choose all that apply.
+
+==> Not everybody knows about the technical capabilities and limitations of XR technology.
+
+==> Not everybody is comfortable with being exposed to XR technology.
+
+
+6. When thinking about accessibility and equity issues in XR, which of the following statements are correct? Choose all that apply.
+
+==> There is relatively limited support for users with special needs.
+
+==> XR technology is still fairly expensive.
+
+7. When thinking about privacy and security issues in XR, which of the following statements are correct? Choose all that apply.
+
+==> It is for designers hard to test whether an XR application is safe and secure.
+
+==> It is hard for users to know whether an XR application is safe and secure.
+
+
+8. Which of the following are legitimate ethical/moral concerns for XR practitioners to consider? Choose all that apply.
+
+==> Effects of virtual embodiment
+
+==> Ethical data collection
+
+
+9. Which of the following are common privacy concerns within XR? Choose all that apply.
+
+==> Identity hacking
+
+==> Third-party data collection
+
+==> Personal data
+
+
+10. The increase in personal data acquisition via XR systems is attributed to an increase in what? Choose one (1). 
+==> An increase in realism of the experiences
+
+
+
+
+
+
+
+

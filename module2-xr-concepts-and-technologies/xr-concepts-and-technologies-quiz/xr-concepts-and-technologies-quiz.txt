@@ -1,0 +1,77 @@
+1. When solving a problem, when would VR not be an ideal solution? Choose all that apply.
+
+==> There is a need for connecting with the real world
+
+==> The solution requires many non-visual elements
+
+
+2. Which of the following are valid examples of AR displays? Choose all that apply.
+
+==> A smartphone showing a doggy face superimposed on your actual face making you look like a cute dog.
+
+==> A headset showing the real world with virtual objects that appear as if they were part of the same world.
+
+
+3. One of the ways VR technologies work is by displaying a slightly different image to each eye. This is known as what?
+==> Stereoscopic Display
+
+
+4. Which of the following are examples of autonomy / agency in VR? Choose all that apply.
+
+==> The user can choose their own perspective on the scene.
+
+==> The user can choose to interact with any objects in the scene.
+
+==> The user can choose to navigate the scene in many different ways.
+
+
+5. Which of the following statements best describes the feeling of presence in VR? Choose one (1). 
+==> The user feels like they are there and that what they see is actually happening to them.
+
+
+6. In Michael’s DIRT Rally 2 VR demo, which factors contributed to a more immersive experience? Choose all that apply.
+
+==> Car seat, steering wheel, handbrake, and gearshift
+
+==> Sound of the car engine
+
+
+7. What does it mean for the user when a VR headset supports six degrees of freedom (6 DOF) tracking? Choose all that apply.
+
+==> The user will be able to look and walk around in VR.
+
+==> The user may lean forward to look more closely at the VR content.
+
+
+8. What does it mean for the user when they are using a marker-based AR ap What does it mean for the user when they are using a marker-based AR application? Choose all that apply.
+
+==> The user may place a marker in the real world to see the AR content.
+
+==> The user may hold the marker in their hand to see the AR content.
+
+==> The user can move the device closer to the marker and the AR content will appear larger.
+
+
+9. What does it mean for an AR display to have a small field of view (FOV)? Choose all that apply.
+
+==> Only a small portion of the AR content can be seen at any one time
+
+==> The visual area that can be augmented is small
+
+
+10. What are good reasons to choose marker-less AR over marker-based AR? Choose all that apply.
+
+==> When the user has access to an AR device with SLAM or VIO tracking
+
+==> When the AR experience is room or world scale
+
+==> When the goal is to create a strong AR experience
+
+
+
+
+
+
+
+
+
