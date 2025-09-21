@@ -1,0 +1,59 @@
+1. What is a key characteristic of virtual reality (VR)? Choose one (1). 
+==> VR replaces the real-world view with computer-generated content
+
+
+2. What are the three (3) key characteristics of augmented reality (AR)?
+
+==> AR makes virtual objects interactive in real-time
+
+==> AR shows you a completely different world around you
+
+==> AR makes virtual objects appear as if they were part of the real world
+
+
+3. What are key differences between virtual reality (VR) and augmented reality (AR)? Choose all that apply.
+
+==> The R in AR is not the same as the R in VR
+
+==> AR enhances reality whereas VR replaces reality
+
+==> VR is essentially a computer-generated, synthetic world whereas AR merges the virtual world with the physical world
+
+
+4. What is mixed reality (MR)? Choose one (1). 
+==> MR is the spectrum of augmented reality and augmented virtuality combined
+
+
+5. What is extended reality (XR)? Choose one (1). 
+==> XR is an umbrella term to refer to the whole space of augmented, mixed, and virtual reality
+
+
+6. Everything in the middle of Milgram’s reality–virtuality continuum is classified as what? Choose one (1).
+==> Mixed Reality (MR)
+
+
+7. Oculus Quest is an example of what kind of XR technology? Choose all that apply.
+
+==> A standalone VR device
+
+==> A tethered VR device
+
+
+8. Where in Milgram's reality–virtuality continuum would Microsoft HoloLens be situated? Choose all that apply.
+
+==> On the left side where it says Augmented Reality (AR)
+
+==> On the left side where it says Mixed Reality (MR)
+
+
+9. Pokémon GO is an example of what kind of XR technology? Choose the most specific answer.
+==>Augmented Reality (AR) application
+
+
+10. Which of the following are key issues in XR? Choose all that apply.
+
+==> Accessibility & equity
+
+==> Privacy & security
+
+==> Social & ethical concerns
