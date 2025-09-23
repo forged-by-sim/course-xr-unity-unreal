@@ -1,0 +1,73 @@
+1. Which of the following statements about design thinking for XR is correct? Choose one (1). 
+==> Design thinking starts with empathy, but we often cannot just ask/observe users because user adoption of XR technology is still limited
+
+
+2. Which of the following statements are correct about methods and tools for XR design thinking? Choose all that apply. 
+
+==> Scenarios & use cases can help with the problem statement
+
+==> Competitive analysis is about identifying key factors and gaps with existing solutions
+
+
+3. What is a negative persona? Choose one (1). 
+==> A negative persona captures users whose goals/needs are not targeted by our design
+
+
+4. If you were to design a new VR sketching app like Google Tilt Brush, then Tilt Brush would be what kind of competitor? Choose one (1). 
+==> Direct competitor
+
+
+5. Which of the following are key design ethics principles when creating new XR experiences? Choose all that apply. 
+
+==> Safety: the user is protected from danger, risk, and injury resulting from the XR experience
+
+==> Transparency: the user is informed about how to control the XR experience
+
+==> Autonomy: the user is in control of the XR experience
+
+
+6. Which of the following statements is true about considering the design impact of XR experiences? Choose one (1). 
+==> The impact of an XR experience needs to be controlled before, during, and after usage.
+
+
+7. What are key considerations when performing a design ethics review? Choose all that apply. 
+
+==> Context & situation: Where is the XR device being used? Who is around the user?
+
+==> Sensory information & data: What does the XR device see? What kind of data is acquired?
+
+==> Processing pipeline: What happens on-device? What happens in the cloud?
+
+==> Data ownership & governance: Who owns and manages the data? How is the user informed?
+
+
+8. Which of the following are valid design guidelines when creating new XR experiences? Choose all that apply. 
+
+==> Make use of interface metaphors and physical affordances
+
+==> Offer alternative ways to travel and provide input
+
+
+9. Which of the following are key considerations when formulating a design critique? Choose all that apply. 
+
+==> What kinds of tools the designer used when creating the XR design
+
+==> How many issues we have already identified so that we can keep the critique balanced
+
+==> Existing design guidelines and principles such as feedback, affordances, mappings, and constraints
+
+
+10. Which of the following are things you could/should do when participating in an XR design jam? Choose all that apply. 
+
+==> Create storyboards and prototypes to flesh out the design concept and illustrate the envisioned XR experience
+
+==> Define scenarios and personas to frame the problem and communicate target users
+
+
+
+
+
+
+
+
+

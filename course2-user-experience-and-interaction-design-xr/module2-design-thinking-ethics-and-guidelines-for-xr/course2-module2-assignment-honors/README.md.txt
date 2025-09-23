@@ -1,0 +1,1 @@
+![Alt text](XR_MOOR_2_Assignment_1_Design_Critique.pdf) 
