@@ -1,1 +1,1 @@
-# xr-for-everybody
+# xr-for-everybody-university-of-michigan
